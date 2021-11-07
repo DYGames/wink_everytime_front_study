@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp"
-        android:text=""
+        android:text="erwerewrewr"
         android:textSize="9dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="5dp"
-        android:text=""
+        android:text="rwerwerwer"
         android:textSize="9dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toBottomOf="@id/calendar_item_title" />
@@ -33,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="5dp"
-        android:text=""
+        android:text="sdfsdfsdf"
         android:textSize="9dp"
         app:layout_constraintLeft_toRightOf="@id/calendar_item_user"
         app:layout_constraintTop_toBottomOf="@id/calendar_item_title" />

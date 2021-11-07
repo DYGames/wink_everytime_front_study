@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Documents/Projects/estudy/app/src/main/res/layout/activity_main.xml" value="0.5588541666666667" />
+        <entry key="..\:/Documents/Projects/estudy/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Documents/Projects/estudy/app/src/main/res/layout/activity_sign.xml" value="0.3848958333333333" />
+        <entry key="..\:/Documents/Projects/estudy/app/src/main/res/layout/activity_signin.xml" value="0.38229166666666664" />
+        <entry key="..\:/Documents/Projects/estudy/app/src/main/res/layout/activity_signup.xml" value="0.3848958333333333" />
         <entry key="..\:/Documents/Projects/estudy/app/src/main/res/layout/calendar_item.xml" value="0.67" />
         <entry key="..\:/Documents/Projects/estudy/app/src/main/res/layout/dialog_calendar.xml" value="0.5588541666666667" />
         <entry key="..\:/Documents/Projects/estudy/app/src/main/res/menu/android_action_bar_spinner_menu.xml" value="0.5588541666666667" />
